@@ -1,5 +1,5 @@
-## <h1>fitness-website</h1>
+## Fitness Website
 
-URL : https://Mr-vabs.github.io/fitness-website/index.html
+GitHub Pages : [Active](https://Mr-vabs.github.io/fitness-website/index.html)
 
-URL : https://code.sololearn.com/WdCOC57jmDBa/?ref=app
+SoloLearn : [Active](https://code.sololearn.com/WdCOC57jmDBa/?ref=app)
